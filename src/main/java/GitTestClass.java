@@ -4,10 +4,12 @@ public class GitTestClass {
         String git = "Git Home Works Fine";
         System.out.println(returnText(git));
     }
-    public static String returnText(String str){
+
+    public static String returnText(String str) {
         return str;
     }
-    public static int returnInt(int i){
+
+    public static int returnInt(int i) {
         return i;
     }
 }
